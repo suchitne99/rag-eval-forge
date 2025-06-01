@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-eval-forge"
+version = "1.2.0"
+description = "Agentic Hybrid RAG Pipeline & Multi-Dimensional Retrieval Evaluation Harness"
+authors = [{name = "suchitne99", email = "suchit.ne99@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.109.0",
+    "pydantic>=2.5.0",
+    "numpy>=1.24.0",
+]
+
+# v1.0.0 milestone
+
+# Release v1.2.0 finalized
