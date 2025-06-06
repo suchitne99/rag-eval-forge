@@ -92,3 +92,5 @@ MIT © [Suchit Negi](https://github.com/suchitne99)
 <!-- Citation diagram -->
 
 <!-- Hybrid search case studies -->
+
+<!-- sync 2025-06-06 slot 1 -->
