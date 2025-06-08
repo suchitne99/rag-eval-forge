@@ -94,3 +94,5 @@ MIT © [Suchit Negi](https://github.com/suchitne99)
 <!-- Hybrid search case studies -->
 
 <!-- sync 2025-06-06 slot 1 -->
+
+<!-- sync 2025-06-08 slot 1 -->
